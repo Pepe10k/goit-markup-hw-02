@@ -58,6 +58,7 @@ body {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .btn:hover {
@@ -73,7 +74,6 @@ body {
 }
 
 .features-item-descr {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -101,7 +101,6 @@ body {
 }
 
 .our-team-member-descr {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -125,7 +124,6 @@ body {
 }
 
 .portfolio-item-descr {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -137,7 +135,6 @@ body {
 }
 
 .footer-descr {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
