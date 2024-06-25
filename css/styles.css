@@ -7,9 +7,14 @@ body {
 .logo {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
+  font-family: 'Raleway', sans-serif;
+}
+
+.logo-part {
   color: #2e2f42;
 }
 
@@ -27,6 +32,7 @@ body {
 }
 
 .address-link {
+  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -46,7 +52,7 @@ body {
 .main-page-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
@@ -88,9 +94,15 @@ body {
 .our-team-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.our-team-list {
+  background-color: #ffffff;
 }
 
 .our-team-member-title {
@@ -111,9 +123,11 @@ body {
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-transform: capitalize;
+  text-align: center;
 }
 
 .portfolio-item-title {
@@ -139,5 +153,5 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #e7e9fc;
+  color: #f4f4fd;
 }
